@@ -21,8 +21,8 @@ Implemented secure access control using IAM users, roles, and AWS STS to enforce
 ### S3 Data Protection Lab
 Explored versioning, object lock, and bucket policies to understand how AWS protects data.
 
-### S3 Disaster Recovery Lab (In Progress)
-Learning replication, multi-region access, and cross-account architecture for resilient systems.
+### S3 Data Protection & Disaster Recovery Lab
+Implemented versioning, object lock, and bucket policies to protect data, and explored replication and multi-region concepts for disaster recovery.
 
 ---
 
