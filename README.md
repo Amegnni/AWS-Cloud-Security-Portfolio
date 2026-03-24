@@ -24,6 +24,7 @@ Explored versioning, object lock, and bucket policies to understand how AWS prot
 ### S3 Data Protection & Disaster Recovery Lab
 Implemented versioning, object lock, and bucket policies to protect data, and explored replication and multi-region concepts for disaster recovery.
 
----
+### EC2 Secure Web Server Lab
+Deployed a secure EC2-based web server by configuring security groups, installing Apache, exposing HTTP traffic, and troubleshooting default web content behavior.
 
 This portfolio reflects my hands-on journey into cloud security and secure AWS architecture.
